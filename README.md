@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ADITI-VASUDEVA.ADITI-VASUDEVA" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditi+Vasudeva!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏻;+I'm+Aditi+Vasudeva!;" />
 </h1>
-<h3 align="center">A passionate Software Engineer and Machine Learning Enthusiast ✨ </h3>
+<h3 align="center">A passionate Software Engineer and Machine Learning Enthusiast✨ </h3>
 
 <br/>
 
@@ -14,7 +14,7 @@
 
  💬 Ask me about **Python, Machine Learning, C++, or anything [here](https://github.com/ADITI-VASUDEVA/ADITI-VASUDEVA/issues)**
 
- ⚡ Fun fact: **The term "debugging" originated when engineers removed an actual moth from a computer**
+ ⚡ Fun fact: **The term "debugging" originated when engineers removed an actual moth from a computer..**
  
 </div>
 
